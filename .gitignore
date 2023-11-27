@@ -108,6 +108,7 @@ plugins/linkis/dss-gateway-support/target
 
 logs
 logs/*
+target
 
 *.iml
 /plugins/dolphinscheduler/dss-dolphinscheduler-client/target
